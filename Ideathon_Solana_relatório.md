@@ -17,14 +17,14 @@ A introdução da tecnologia Blockchain e Web3 no Ensino Técnico vai além da p
 * **Resolução de Problemas Reais:** Utilizar a imutabilidade e a transparência da blockchain para sanar dores reais da comunidade local e do ambiente escolar.
 
 ### Benefícios Práticos para os Alunos
-* **Alta Empregabilidade:** Alinhamento com uma das áreas de tecnologia que mais cresce e que possui alta demanda por profissionais qualificados globalmente.
+* **Aumento da Empregabilidade:** Alinhamento com uma das áreas de tecnologia que mais cresce e que possui alta demanda por profissionais qualificados globalmente.
 * **Desenvolvimento de *Soft Skills*:** Trabalho em formato de *sprint* ágil (*Ideathon*), exigindo gerenciamento de tempo, resiliência, liderança e trabalho em equipe.
 * **Cidadania Digital e Soberania de Dados:** Compreensão prática de conceitos de privacidade, criptografia e propriedade digital (tokens e NFTs), tornando-os usuários e criadores conscientes.
 
 ---
 
 ## 🔹 3. Destaque: Reconhecimento e Conexão 🏆
-Como reconhecimento pelo desempenho exemplar no trimestre, 3 alunos destaque foram convidados a participar do evento **BHOnchain**, acompanhados pela professora Sandra. Na ocasião, puderam aperfeiçoar conhecimentos técnicos e realizar uma valiosa interação com empresas e profissionais do ecossistema.
+Como reconhecimento pelo desempenho no trimestre, 3 alunos destaque foram convidados a participar do evento **BHOnchain**, acompanhados pela professora Sandra. Na ocasião, puderam aperfeiçoar conhecimentos técnicos e realizar uma valiosa interação com empresas e profissionais do ecossistema.
 
 ---
 

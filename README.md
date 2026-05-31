@@ -28,7 +28,7 @@ O projeto foi estruturado para consolidar o conhecimento prático em cinco pilar
 
 ---
 
-### 📋 Portfólio de Projetos de Inovação Desenvolvidos no trimestre
+### 📋 Portfólio de Projetos de Inovação Desenvolvidos no Trimestre
 
 #### 1. Cabana do Acolhimento
 * **Equipe:** Izabelly Mendes
